@@ -1,0 +1,6 @@
+http://github.com/GrupoDiana/BRTLibrary/
+
+Questo è un paper su SDN: https://arxiv.org/abs/1502.05751
+
+https://www.aurora-plugins.com/index.htm
+Adobe Audition plugins for calculate: STI, impulse response, acoustic filters, etc...
