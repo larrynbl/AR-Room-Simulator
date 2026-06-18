@@ -1,3 +1,9 @@
 .venv/
 __pycache__/
 *.pyc
+
+# File troppo grandi per GitHub (>100MB)
+dataset_audio/
+dataset_spectrograms/
+dataset_wet/
+*.h5
